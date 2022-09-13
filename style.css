@@ -5,6 +5,13 @@ body{
     font-family:'Roboto', sans-serif;
 }
 
+.boss{
+    margin-top: 120px;
+    padding: 50px;
+    background-color: rgb(50, 50, 50);
+    color: white;
+}
+
 .imgmaps{
     width: 500px;
     height: 300px;
