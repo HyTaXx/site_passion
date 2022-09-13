@@ -5,6 +5,24 @@ body{
     font-family:'Roboto', sans-serif;
 }
 
+.imgmaps{
+    width: 500px;
+    height: 300px;
+}
+
+.maps{
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 50px;
+    border: solid #78866B 1px;
+}
+
+.stockmaps{
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
 nav{
     display: flex;
     flex-direction: row;
@@ -15,6 +33,13 @@ h1{
     color: white;
 }
 
+h3{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
 #logo{
     left: 0px;
     width: 75px;
