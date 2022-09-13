@@ -64,6 +64,11 @@ h3{
     text-align: center;
 }
 
+#texte{
+    display: flex;
+    justify-content: center;
+}
+
 h2{
     text-align: center;
 }
