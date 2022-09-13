@@ -67,9 +67,16 @@ h3{
 #texte{
     display: flex;
     justify-content: center;
+    padding: 25px;
+}
+
+#principe{
+    background-color: rgb(50, 50, 50);
+    color: white;
 }
 
 h2{
+    margin-top: 0px;
     text-align: center;
 }
 #logo{
@@ -95,6 +102,7 @@ footer{
 
 p{
     text-align: center;
+    margin-bottom: 0;
 }
 
 a{
