@@ -12,6 +12,13 @@ body{
     color: white;
 }
 
+.trailer{
+    padding: 50px;
+    background-color: rgb(50, 50, 50);
+    display: flex;
+    justify-content: center;
+}
+
 .imgmaps{
     width: 500px;
     height: 300px;
